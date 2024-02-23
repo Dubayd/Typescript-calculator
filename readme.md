@@ -20,7 +20,7 @@ A simple calculator web application that allows users to perform basic arithmeti
 
 2. Navigate to the project directory:
    ```bash
-   cd calculator-web-app
+   cd Typescript-calculator
    ```
 
 3. Open `index.html` in your web browser.
