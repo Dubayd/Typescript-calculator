@@ -1,5 +1,3 @@
-Sure, here's a basic README template for your project:
-
 ---
 
 # Calculator Web App
@@ -17,7 +15,7 @@ A simple calculator web application that allows users to perform basic arithmeti
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/calculator-web-app.git
+   git clone https://github.com/Dubayd/Typescript-calculator
    ```
 
 2. Navigate to the project directory:
